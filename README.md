@@ -8,7 +8,6 @@ The project for Nova's portfolio website is outlined a captivating five-page lay
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Future Improvements](#future-improvements)
 - [Credits](#credits)
 
 
@@ -77,13 +76,7 @@ cd client
 npm install
 ```
 
-## Future Improvements
 
-- Add email verification
-- Add unit & integration testing
-- Add real-time notifications
-- Improve UI animations
-- Add admin dashboard
 
 ---
 
