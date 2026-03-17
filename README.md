@@ -48,8 +48,6 @@ The application solves the problem of visibility, credibility, and accessibility
 - HTML5
 - CSS3
 
-### Backend
-- REST API
 
 
 ### Tools
